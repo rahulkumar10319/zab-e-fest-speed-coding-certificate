@@ -4,7 +4,7 @@ This repository showcases my **Certificate of Participation** in the Speed Codin
 
 ## 📸 Certificate
 
-![Speed Coding Competition Certificate](./speed-coding-certificate.pdf.pdf)
+![Speed Coding Competition Certificate](./speed-coding-certificate.pdf.pdf.jpeg)
 
 ## 📜 Certificate Details
 
